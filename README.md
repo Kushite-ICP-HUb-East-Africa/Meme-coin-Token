@@ -38,6 +38,7 @@ MemeToken is a fun and engaging token designed to embody the spirit of internet 
     Staking: Enable token holders to stake their tokens.
     Yield Farming: Participate in yield farming activities to earn additional rewards.
 
+
 ## Code Implementation
 
 ## TypeScript (Internet Computer)
@@ -93,7 +94,7 @@ Implemented detailed events for tracking minting, burning, pausing, and unpausin
   `unpauseTransfers`
 
 
-License
+## License
 This project is licensed under the MIT License.
 
 
